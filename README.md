@@ -54,12 +54,18 @@
 # NoSQL (MongoDB, ElasticSearch, Redis)
 * [mongo](https://metanit.com/nosql/mongodb/)
 * [redis](https://habr.com/ru/post/204354/)
-
-
 # C#
+* [русский](https://metanit.com/sharp/tutorial/)
 # Docker, k8s
+* [русский](https://dker.ru/docs/docker-engine/docker-overview/)
 # RabbitMQ
+* [английский](https://www.rabbitmq.com/getstarted.html)
 # English
+* [ресурсы](https://www.adme.ru/zhizn-nauka/150-poleznyh-ssylok-dlya-samostoyatelnogo-izucheniya-anglijskogo-1229910/)
 # Kubernetes
+* [русский](https://kubernetes.io/ru/docs/concepts/overview/what-is-kubernetes/)
 # Postgis
+* [английский](https://postgis.net/documentation/)
 # CSS3 (LESS/SASS)
+* [sass](https://sass-scss.ru/guide/)
+* [less](http://lesscss.org/features/)
