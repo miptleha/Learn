@@ -38,12 +38,24 @@
 * [Скринкаст](https://learn.javascript.ru/screencast/gulp)
 * [Пример на ru.stackoverflow.com](https://ru.stackoverflow.com/questions/1040377/browsersync-%D0%BD%D0%B5-%D0%B2%D0%B8%D0%B4%D0%B8%D1%82-%D1%81%D1%82%D0%B8%D0%BB%D0%B8-%D0%BB%D0%BE%D0%BA%D0%B0%D0%BB%D1%8C%D0%BD%D0%BE-%D0%B2%D1%81%D1%91-%D0%BE%D1%82%D0%BE%D0%B1%D1%80%D0%B0%D0%B6%D0%B0%D0%B5%D1%82%D1%81%D1%8F)
 # Bootstrap
+* [английский](https://getbootstrap.com/docs/4.4/getting-started/introduction/)
+* [русский](https://bootstrap-4.ru/docs/4.3.1/getting-started/introduction/)
 # Express.js
+* [русский](https://expressjs.com/ru/)
+* [английский](https://expressjs.com/)
 # MS Sql
+* [русский](https://metanit.com/sql/sqlserver/)
 # Oracle
+* [учебник](http://www.bookwebmaster.narod.ru/oracle.html)
 # PostgreSql
+* [русский](https://postgrespro.ru/docs/)
 # MySQL
+* [русский](https://metanit.com/sql/mysql/)
 # NoSQL (MongoDB, ElasticSearch, Redis)
+* [mongo](https://metanit.com/nosql/mongodb/)
+* [redis](https://habr.com/ru/post/204354/)
+
+
 # C#
 # Docker, k8s
 # RabbitMQ
