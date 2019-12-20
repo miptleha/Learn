@@ -1,15 +1,16 @@
 # AngularJS
+* [офицальный туториал](https://docs.angularjs.org/tutorial)
 # Angular
-* скринкаст
+* [скринкаст](https://learn.javascript.ru/screencast/angular)
 # D3
 # Knockout
 # VueJS (Components)
 # ReactJS (Components)
-* скринкаст
+* [скринкаст](https://learn.javascript.ru/screencast/react)
 # BabelJS/ES2015
 # EF (tt)
 # Git
-* скринкаст
+* [скринкаст](https://learn.javascript.ru/screencast/git)
 * книга
 # .NET Core
 # DevExpress
@@ -18,8 +19,8 @@
 # WebPack
 * скринкаст
 # Gulp
-* Скринкаст
-* Пример на ru.stackoverflow.com
+* [Скринкаст](https://learn.javascript.ru/screencast/gulp)
+* [Пример на ru.stackoverflow.com](https://ru.stackoverflow.com/questions/1040377/browsersync-%D0%BD%D0%B5-%D0%B2%D0%B8%D0%B4%D0%B8%D1%82-%D1%81%D1%82%D0%B8%D0%BB%D0%B8-%D0%BB%D0%BE%D0%BA%D0%B0%D0%BB%D1%8C%D0%BD%D0%BE-%D0%B2%D1%81%D1%91-%D0%BE%D1%82%D0%BE%D0%B1%D1%80%D0%B0%D0%B6%D0%B0%D0%B5%D1%82%D1%81%D1%8F)
 # Bootstrap
 # Express.js
 # MS Sql
