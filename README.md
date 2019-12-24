@@ -21,6 +21,8 @@
 # Git
 * [скринкаст](https://learn.javascript.ru/screencast/git)
 * [книга](https://git-scm.com/book/ru/v2)
+* [команды](http://imnotgenius.com/git/)
+* [интерактив](https://learngitbranching.js.org/)
 # .NET Core
 * [русский](https://docs.microsoft.com/ru-ru/dotnet/core/)
 # DevExpress
@@ -33,6 +35,8 @@
 # WebPack
 * [скринкаст](https://learn.javascript.ru/screencast/webpack)
 * [старт](https://proglib.io/p/webpack-in-15/)
+# Node.JS
+* [мини курс](http://imnotgenius.com/vvedeniya-v-node-js/)
 # Gulp
 * [английский](https://gulpjs.com/docs/en/getting-started/quick-start)
 * [Скринкаст](https://learn.javascript.ru/screencast/gulp)
