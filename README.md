@@ -1,3 +1,8 @@
+# Youtube каналы разработчиков
+* [FrontCoder](https://www.youtube.com/channel/UCzhKcnzGNhPEZsNSKjug1jA/playlists)
+* [АйТиБорода](https://www.youtube.com/channel/UCeObZv89Stb2xLtjLJ0De3Q/playlists)
+* [Хауди Хо](https://www.youtube.com/channel/UC7f5bVxWsm3jlZIPDzOMcAg/playlists?view=1&sort=dd&shelf_id=0)
+
 # AngularJS
 * [офицальный туториал](https://docs.angularjs.org/tutorial)
 # Angular
