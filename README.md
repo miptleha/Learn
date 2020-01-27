@@ -5,7 +5,7 @@
 
 # Шаблонизаторы Node.js
 * pug, [офицальный](https://pugjs.org/api/getting-started.html), [видосы](https://www.youtube.com/watch?v=kKrYAdB8XJ4&list=PLDmWuBfh49Z7nZr7FF4eE88PZXWQLIFF0)
-* ejs, [офицальный](ejs.co), [энтузиаст](https://github.com/dutchenkoOleg/gulp-ejs-monster/blob/master/README-RU.md)
+* ejs, [офицальный](https://ejs.co/), [энтузиаст](https://github.com/dutchenkoOleg/gulp-ejs-monster/blob/master/README-RU.md)
 * [handlebars](https://www.npmjs.com/package/gulp-handlebars)
 * [haml](https://github.com/stevelacy/gulp-haml)
 * [hogan](https://www.npmjs.com/package/gulp-hogan)
