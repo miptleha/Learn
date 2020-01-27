@@ -3,6 +3,14 @@
 * [АйТиБорода](https://www.youtube.com/channel/UCeObZv89Stb2xLtjLJ0De3Q/playlists)
 * [Хауди Хо](https://www.youtube.com/channel/UC7f5bVxWsm3jlZIPDzOMcAg/playlists?view=1&sort=dd&shelf_id=0)
 
+# Шаблонизаторы Node.js
+* pug, (офицальный)[https://pugjs.org/api/getting-started.html], (видосы)[https://www.youtube.com/watch?v=kKrYAdB8XJ4&list=PLDmWuBfh49Z7nZr7FF4eE88PZXWQLIFF0]
+* ejs, (офицальный)[ejs.co], (энтузиаст)[https://github.com/dutchenkoOleg/gulp-ejs-monster/blob/master/README-RU.md]
+* [handlebars](https://www.npmjs.com/package/gulp-handlebars)
+* [haml](https://github.com/stevelacy/gulp-haml)
+* [hogan](https://www.npmjs.com/package/gulp-hogan)
+* [куча разных шаблонизаторов](https://github.com/expressjs/express/wiki#template-engines)
+
 # Технологии
 ## AngularJS
 * [офицальный туториал](https://docs.angularjs.org/tutorial)
