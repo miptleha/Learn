@@ -4,8 +4,8 @@
 * [Хауди Хо](https://www.youtube.com/channel/UC7f5bVxWsm3jlZIPDzOMcAg/playlists?view=1&sort=dd&shelf_id=0)
 
 # Шаблонизаторы Node.js
-* pug, (офицальный)[https://pugjs.org/api/getting-started.html], (видосы)[https://www.youtube.com/watch?v=kKrYAdB8XJ4&list=PLDmWuBfh49Z7nZr7FF4eE88PZXWQLIFF0]
-* ejs, (офицальный)[ejs.co], (энтузиаст)[https://github.com/dutchenkoOleg/gulp-ejs-monster/blob/master/README-RU.md]
+* pug, [офицальный](https://pugjs.org/api/getting-started.html), [видосы](https://www.youtube.com/watch?v=kKrYAdB8XJ4&list=PLDmWuBfh49Z7nZr7FF4eE88PZXWQLIFF0)
+* ejs, [офицальный](ejs.co), [энтузиаст](https://github.com/dutchenkoOleg/gulp-ejs-monster/blob/master/README-RU.md)
 * [handlebars](https://www.npmjs.com/package/gulp-handlebars)
 * [haml](https://github.com/stevelacy/gulp-haml)
 * [hogan](https://www.npmjs.com/package/gulp-hogan)
