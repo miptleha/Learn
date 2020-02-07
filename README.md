@@ -1,3 +1,8 @@
+# Создание статического блога
+* [Размышления](https://habr.com/ru/post/142287/)
+* [jekyll](https://jekyllrb.com/), [видеокурс 1](https://www.youtube.com/playlist?list=PLiQQbsp51_qRqVEsKWXnG2WjhimnKcgOU), [видеокурс 2](https://www.youtube.com/playlist?list=PLyHuZVg03hQjtV45HPlfuPzHJOtEoK6DT)
+
+
 # Youtube каналы разработчиков
 * [FrontCoder](https://www.youtube.com/channel/UCzhKcnzGNhPEZsNSKjug1jA/playlists)
 * [АйТиБорода](https://www.youtube.com/channel/UCeObZv89Stb2xLtjLJ0De3Q/playlists)
