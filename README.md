@@ -1,3 +1,13 @@
+# Адаптивные css фреймвоки
+* [bootstrap](https://getbootstrap.com/)
+* [foundation](https://foundation.zurb.com/)
+* [semantic ui](https://semantic-ui.com/)
+* [bulma](https://bulma.io/)
+* [skeleton](http://getskeleton.com/)
+* [pure.css](https://purecss.io/)
+* [groundwork](https://groundworkcss.github.io/)
+* [materialize](https://materializecss.com/)
+
 # Создание статического блога
 * [Размышления](https://habr.com/ru/post/142287/)
 * [jekyll](https://jekyllrb.com/), [видеокурс 1](https://www.youtube.com/playlist?list=PLiQQbsp51_qRqVEsKWXnG2WjhimnKcgOU), [видеокурс 2](https://www.youtube.com/playlist?list=PLyHuZVg03hQjtV45HPlfuPzHJOtEoK6DT)
