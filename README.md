@@ -1,3 +1,6 @@
+# Настоящее JavaScript
+* [сайт](https://2017.stateofjs.com/2017/introduction/)
+
 # Шаблонизатор в jekyll
 * [введение в шаблоны lodash](https://learn.javascript.ru/template-lodash), [lodash по русски](https://github.com/comerc/lodash-ru/tree/master/doc) 
 * [liquid по русски](https://wiki.insales.ru/wiki/Liquid), [на английском 1](https://github.com/Shopify/Liquid/wiki), [на английском 2](http://shopify.github.io/liquid/)
