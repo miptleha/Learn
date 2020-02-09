@@ -1,6 +1,7 @@
 # Шаблонизатор в jekyll
 * [введение в шаблоны lodash](https://learn.javascript.ru/template-lodash), [lodash по русски](https://github.com/comerc/lodash-ru/tree/master/doc) 
 * [liquid по русски](https://wiki.insales.ru/wiki/Liquid), [на английском 1](https://github.com/Shopify/Liquid/wiki), [на английском 2](http://shopify.github.io/liquid/)
+* [руководство jekyll](https://habr.com/ru/post/207650/)
 
 # Адаптивные css фреймвоки
 * [bootstrap](https://getbootstrap.com/)
