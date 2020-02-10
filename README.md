@@ -1,5 +1,5 @@
 # Интересно
-* [статья](https://webdevkin.ru/posts/frontend/adminka-vue-1)
+* [статья](https://webdevkin.ru/posts/frontend/adminka-vue-1), [еще статья](https://webdevkin.ru/posts/frontend/korzina-dlya-internet-magazina-na-fronte-ili-pishem-modulnyij-javascript)
 
 # Настоящее JavaScript
 * [сайт](https://2017.stateofjs.com/2017/introduction/)
