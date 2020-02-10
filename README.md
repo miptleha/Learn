@@ -1,3 +1,6 @@
+# Интересно
+* [статья](https://webdevkin.ru/posts/frontend/adminka-vue-1)
+
 # Настоящее JavaScript
 * [сайт](https://2017.stateofjs.com/2017/introduction/)
 
