@@ -1,3 +1,6 @@
+# Темы jekyll
+* [so-simple](https://github.com/mmistakes/so-simple-theme)
+
 # Интересно
 * [статья](https://webdevkin.ru/posts/frontend/adminka-vue-1), [еще статья](https://webdevkin.ru/posts/frontend/korzina-dlya-internet-magazina-na-fronte-ili-pishem-modulnyij-javascript)
 
