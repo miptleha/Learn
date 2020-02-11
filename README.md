@@ -2,7 +2,7 @@
 * [статья](https://webdevkin.ru/posts/frontend/adminka-vue-1), [еще статья](https://webdevkin.ru/posts/frontend/korzina-dlya-internet-magazina-na-fronte-ili-pishem-modulnyij-javascript)
 
 # Настоящее JavaScript
-* [сайт](https://2017.stateofjs.com/2017/introduction/)
+* [сайт](https://stateofjs.com/)
 
 # Шаблонизатор в jekyll
 * [введение в шаблоны lodash](https://learn.javascript.ru/template-lodash), [lodash по русски](https://github.com/comerc/lodash-ru/tree/master/doc) 
