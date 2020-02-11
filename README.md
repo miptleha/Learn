@@ -3,6 +3,7 @@
 
 # Интересно
 * [статья](https://webdevkin.ru/posts/frontend/adminka-vue-1), [еще статья](https://webdevkin.ru/posts/frontend/korzina-dlya-internet-magazina-na-fronte-ili-pishem-modulnyij-javascript)
+* [справка github](https://help.github.com/en/github)
 
 # Настоящее JavaScript
 * [сайт](https://stateofjs.com/)
