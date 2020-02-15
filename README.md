@@ -1,6 +1,7 @@
 # Темы jekyll
 * [so-simple](https://github.com/mmistakes/so-simple-theme)
 * [как настроить](https://webdesign.tutsplus.com/ru/tutorials/how-to-set-up-a-jekyll-theme--cms-26332)
+* [пример блога](https://github.com/mojombo/mojombo.github.io)
 
 # Интересно
 * [статья](https://webdevkin.ru/posts/frontend/adminka-vue-1), [еще статья](https://webdevkin.ru/posts/frontend/korzina-dlya-internet-magazina-na-fronte-ili-pishem-modulnyij-javascript)
