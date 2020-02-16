@@ -4,6 +4,7 @@
 * [пример блога](https://github.com/mojombo/mojombo.github.io)
 * [еще блог](https://github.com/Phlow/simplicity)
 * [сайт jekyll](https://github.com/jekyll/jekyll/tree/master/docs)
+* [список](https://github.com/topics/jekyll-theme)
 
 # Интересно
 * [статья](https://webdevkin.ru/posts/frontend/adminka-vue-1), [еще статья](https://webdevkin.ru/posts/frontend/korzina-dlya-internet-magazina-na-fronte-ili-pishem-modulnyij-javascript)
