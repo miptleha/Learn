@@ -1,3 +1,7 @@
+# Верстка
+* [канал](https://www.youtube.com/channel/UCn-P_F0tfY21cfnkyv2lsRQ/featured)
+* [журнал](https://getinstance.info/)
+
 # Темы jekyll
 * [so-simple](https://github.com/mmistakes/so-simple-theme)
 * [как настроить](https://webdesign.tutsplus.com/ru/tutorials/how-to-set-up-a-jekyll-theme--cms-26332)
