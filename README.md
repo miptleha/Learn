@@ -1,4 +1,5 @@
 # Верстка
+* [макеты](https://www.sketchappsources.com/free-source/3727-marketika-landing-page-sketch-freebie-resource.html)
 * [канал](https://www.youtube.com/channel/UCn-P_F0tfY21cfnkyv2lsRQ/featured)
 * [журнал](https://getinstance.info/)
 
